@@ -22,7 +22,7 @@
 ## 🚀 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,firebase,cpp,java" />
-    <img src="https://skillicons.dev/icons?i=github,vscode,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=github,vscode,javascript,postman" /><br>
 </div>
 
 <br>
