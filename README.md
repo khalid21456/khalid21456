@@ -11,7 +11,7 @@
 
 - 👨‍💻 I'm so interested by Programming and Problem Solving 
 
-- 🌱 I’m currently learning Spring Boot.
+- 🌱 I’m currently learning Spring Boot
 
 <br>
 <div align="center">
@@ -30,8 +30,5 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
-
-
-
 
 <br/>
