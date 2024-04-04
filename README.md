@@ -38,6 +38,11 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind" />
 </div>
 
+## Database management
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+</div>
+
 ## 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,mysql,cpp,c,cs,java,spring boot, sqlserver" />
