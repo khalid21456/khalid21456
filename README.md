@@ -23,7 +23,7 @@
 </div>
 <br>
 
-## Programming languages:
+## ♨️ Programming languages:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,cpp,c,cs,java,javascript " />
 </div>
