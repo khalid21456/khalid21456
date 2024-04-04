@@ -46,7 +46,7 @@
 
 ## 🛠️ Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=npm,maven,docker,github,git,vscode,eclipse,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,maven,docker,github,git,vscode,eclipse,postman,visualstudio,vite" /><br>
 </div>
 
 <br>
