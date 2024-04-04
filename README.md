@@ -6,7 +6,9 @@
 <br>
 
 ## 🙋‍♂️ About Me:
-               - You can't reach me by **khalidedaoudi8@gmail.com**
+
+ You can't reach me by **khalidedaoudi8@gmail.com**
+
 - 🔭 I’m Khalid Edaoudi
 
 - 👨‍💻 I'm so interested by Programming and Problem Solving 
