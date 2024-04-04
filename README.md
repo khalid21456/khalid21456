@@ -11,6 +11,8 @@
 
 - 🔭 I’m Khalid Edaoudi
 
+- :student: Computer Science student
+
 - 👨‍💻 I'm so interested by Programming and Problem Solving 
 
 - 🌱 I’m currently learning Spring Boot
