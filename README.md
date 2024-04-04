@@ -28,7 +28,7 @@
     <img src="https://skillicons.dev/icons?i=php,cpp,c,cs,java,javascript " />
 </div>
 
-## Web technologies:
+## 🌐 Web technologies:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react, spring boot " />
 </div>
