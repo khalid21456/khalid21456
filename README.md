@@ -38,12 +38,12 @@
     <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind" />
 </div>
 
-## Database management
+## 🛢️ Database management
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </div>
 
-## Tools
+## 🛠️ Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=npm,maven,docker,github,git,vscode,eclipse,postman" /><br>
 </div>
