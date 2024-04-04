@@ -33,7 +33,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,react,spring" />
 </div>
 
-## Frameworks and libraries
+## 💡 Frameworks and libraries
 <div align="center">
     <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind" />
 </div>
