@@ -41,6 +41,7 @@
 ## 🛢️ Database management
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"/>
 </div>
 
 ## 🛠️ Tools
