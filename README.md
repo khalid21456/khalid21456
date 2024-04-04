@@ -9,13 +9,13 @@
 
  You can't reach me by **khalidedaoudi8@gmail.com**
 
-- 🔭 I’m Khalid Edaoudi
+- 🔭 I’m **Khalid Edaoudi**
 
 - :student: Computer Science student
 
-- 👨‍💻 I'm so interested by Programming and Problem Solving 
+- 👨‍💻 I'm so interested by **Programming** and **Problem Solving** 
 
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning **Spring Boot**
 
 <br>
 <div align="center">
