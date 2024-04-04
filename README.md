@@ -23,14 +23,19 @@
 </div>
 <br>
 
-## 🚀 Languages:
+## Programming languages:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,cpp,c,cs,java,html,css,javascript " />
 </div>
 
+## Web technologies:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=html,css,react, spring boot " />
+</div>
+
 ## Frameworks and libraries
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,jquery,tailwind,spring boot " />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind" />
 </div>
 
 ## 
