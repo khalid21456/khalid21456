@@ -23,7 +23,15 @@
 </div>
 <br>
 
-## 🚀 Languages and Tools:
+## 🚀 Languages:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=php,cpp,c,cs,java,html,css,javascript " />
+</div>
+
+## Framexorks and libraries
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,spring boot,bootstrap,jquery,tailwind " />
+</div>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,mysql,cpp,c,cs,java,spring boot, sqlserver" />
     <img src="https://skillicons.dev/icons?i=firebase,html,css,npm,maven,docker" />
