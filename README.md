@@ -35,5 +35,13 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
+---
 
+<p>
+  <a href="https://github.com/yousofkortam">
+    <img src="https://github-readme-stats.vercel.app/api?username=yousofkortam&show_icons=true&theme=radical" alt="Yousof's GitHub stats" height="195">
+    &emsp; 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yousofkortam&layout=compact&theme=radical" alt="Top Languages" height="195">
+  </a>
+</p>
 <br/>
