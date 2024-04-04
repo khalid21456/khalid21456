@@ -28,10 +28,12 @@
     <img src="https://skillicons.dev/icons?i=php,cpp,c,cs,java,html,css,javascript " />
 </div>
 
-## Framexorks and libraries
+## Frameworks and libraries
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,bootstrap,jquery,tailwind,spring boot " />
 </div>
+
+## 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,mysql,cpp,c,cs,java,spring boot, sqlserver" />
     <img src="https://skillicons.dev/icons?i=firebase,html,css,npm,maven,docker" />
