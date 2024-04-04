@@ -25,7 +25,7 @@
 
 ## ♨️ Programming languages:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,cpp,c,cs,java,javascript " />
+    <img src="https://skillicons.dev/icons?i=php,cpp,c,cs,java,javascript" />
 </div>
 
 ## 🌐 Web technologies:
@@ -40,7 +40,7 @@
 
 ## 🛢️ Database management
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
 </div>
 
