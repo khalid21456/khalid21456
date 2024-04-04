@@ -22,7 +22,7 @@
 ## 🚀 Languages and Tools:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=php,mysql,cpp,java,spring boot, sqlserver" />
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,tailwind,eclipse,javascript,react,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=github,git,vscode,tailwind,eclipse,javascript,jquery,react,postman" /><br>
 </div>
 
 <br>
