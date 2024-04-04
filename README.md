@@ -43,11 +43,9 @@
     <img src="https://skillicons.dev/icons?i=mysql,firebase" />
 </div>
 
-## 
+## Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,mysql,cpp,c,cs,java,spring boot, sqlserver" />
-    <img src="https://skillicons.dev/icons?i=firebase,html,css,npm,maven,docker" />
-    <img src="https://skillicons.dev/icons?i=github,git,vscode,tailwind,bootstrap,eclipse,javascript,jquery,react,postman" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,maven,docker,github,git,vscode,eclipse,postman" /><br>
 </div>
 
 <br>
