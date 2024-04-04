@@ -41,7 +41,7 @@
 ## 🛢️ Database management
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,firebase" />
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
+    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px" style="border-radius:5%;"/>
 </div>
 
 ## 🛠️ Tools
