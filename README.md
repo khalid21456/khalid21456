@@ -54,12 +54,13 @@
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
 </div>
 <br>
----
+<br>
 
 <p>
   <a href="https://github.com/khalid21456">
     <img src="https://github-readme-stats.vercel.app/api?username=khalid21456&show_icons=true&theme=radical" alt="Khalid's GitHub stats" height="195">
-    &emsp; 
+    &emsp;
+      <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid21456&layout=compact&theme=radical" alt="Top Languages" height="195">
   </a>
 </p>
