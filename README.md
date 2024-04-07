@@ -7,7 +7,7 @@
 
 ## 🙋‍♂️ About Me:
 
- You can't reach me by **khalidedaoudi8@gmail.com**
+ You can reach me by **khalidedaoudi8@gmail.com**
 
 - 🔭 I’m **Khalid Edaoudi**
 
