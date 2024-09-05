@@ -15,7 +15,7 @@
 
 - 👨‍💻 I'm so interested by **Programming** and **Problem Solving** 
 
-- 🌱 I’m currently learning **Spring Boot** 
+- 🌱 I’m currently learning **Next.js** 
 
 <br>
 <div align="center">
