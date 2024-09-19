@@ -25,7 +25,7 @@
 
 ## ♨️ Programming languages:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=php,cpp,c,cs,java,javascript,R,python" />
+    <img src="https://skillicons.dev/icons?i=php,cpp,c,cs,java,javascript,r,python" />
 </div>
 
 ## 🌐 Web technologies:
