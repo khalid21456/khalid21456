@@ -13,7 +13,7 @@
 
 - 👨‍🎓 Computer Science student
 
-- 👨‍💻 I'm so interested by **Programming** and **Problem Solving** 
+- 👨‍💻 I'm so interested by **Programming**, **Data Science** and **Machine Learning**
 
 - 🌱 I’m currently learning **Next.js** 
 
