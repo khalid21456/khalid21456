@@ -13,7 +13,7 @@
 
 - 🔭 I’m **Khalid Edaoudi**
 
-- 👨‍🎓 Computer Science student
+- 👨‍🎓 Big Data & IoT student
 
 - 👨‍💻 I'm so interested by **Programming**, **Data Science** and **IA**
 
