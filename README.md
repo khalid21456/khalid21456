@@ -17,7 +17,7 @@
 
 - 👨‍💻 I'm so interested by **Programming**, **Data Science** and **IA**
 
-- 🌱 I’m currently learning **Next.js** 
+<!--- 🌱 I’m currently learning **Next.js**--> 
 
 <br>
 <div align="center">
