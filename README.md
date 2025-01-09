@@ -37,7 +37,7 @@
 
 ## 💡 Frameworks and libraries
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind,materialui,pandas" />
 </div>
 
 ## 🛢️ Database management
