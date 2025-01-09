@@ -37,7 +37,7 @@
 
 ## 💡 Frameworks and libraries
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind,materialui,pandas" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind,materialui" />
 </div>
 
 ## 🛢️ Database management
@@ -48,7 +48,7 @@
 
 ## 🛠️ Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=npm,maven,docker,github,git,yarn,vscode,eclipse,idea,postman,visualstudio,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,maven,docker,github,git,yarn,vscode,anaconda,eclipse,idea,postman,visualstudio,vite" /><br>
 </div>
 
 <br>
