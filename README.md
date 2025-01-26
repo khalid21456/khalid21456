@@ -37,18 +37,18 @@
 
 ## 💡 Frameworks and libraries
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind,materialui" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind,materialui,sklearn,tensorflow" />
 </div>
 
 ## 🛢️ Database management
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb" />
+    <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres" />
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
 </div>
 
 ## 🛠️ Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=npm,maven,docker,latex,github,git,yarn,vscode,anaconda,eclipse,idea,postman,visualstudio,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,docker,latex,github,git,yarn,vscode,anaconda,eclipse,idea,postman,visualstudio,vite" /><br>
 </div>
 
 <br>
