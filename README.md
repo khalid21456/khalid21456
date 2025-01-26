@@ -15,7 +15,7 @@
 
 - 👨‍🎓 Big Data & IoT student
 
-- 👨‍💻 I'm so interested by **Programming**, **Data Science** and **IA**
+- 👨‍💻 I'm so interested by **Software Engineering**, **Data Science** and **IA**
 
 <!--- 🌱 I’m currently learning **Next.js**--> 
 
