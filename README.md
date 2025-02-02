@@ -32,7 +32,7 @@
 
 ## 🌐 Web technologies:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,spring,next" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,spring,next,flask" />
 </div>
 
 ## 💡 Frameworks and libraries
