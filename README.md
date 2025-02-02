@@ -44,6 +44,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres" />
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
+    <img src="[https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Ffree-icon%2Fsql-4&psig=AOvVaw0VJd48VkJNtbkQ78CQxB5i&ust=1738624353730000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCODxpqGcposDFQAAAAAdAAAAABAY)" width="45px" height="45px"/>
+    
 </div>
 
 ## 🛠️ Tools
