@@ -50,7 +50,7 @@
 
 ## 🛠️ Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,docker,latex,github,git,yarn,vscode,anaconda,eclipse,idea,postman,visualstudio,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,docker,latex,github,git,vscode,anaconda,eclipse,idea,postman,visualstudio,vite" /><br>
     <img src="https://upload.vectorlogo.zone/logos/microsoft_powerbi/images/985205ac-fb3d-4c80-97f4-7bc0fec8c67d.svg" width="45px" height="45px"/>
 </div>
 
