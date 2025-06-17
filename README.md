@@ -52,7 +52,7 @@
 
 ## 🛠️ Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,docker,yarn,latex,github,git,vscode,anaconda,eclipse,idea,postman,vite" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,docker,yarn,latex,github,git,vscode,anaconda,eclipse,idea,postman,vite,vercel" /><br>
 </div>
 
 <br>
