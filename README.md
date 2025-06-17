@@ -38,7 +38,7 @@
 
 ## 💡 Frameworks and libraries
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind,materialui,sklearn,tensorflow" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,jquery,tailwind,materialui,sklearn,tensorflow,pytorch" />
     <img src="https://www.vectorlogo.zone/logos/numpy/numpy-icon.svg" width="45px" height="45px"/>
     
 </div>
