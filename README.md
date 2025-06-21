@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+Welcome+!+👋;+I'm+Khalid+Edaoudi+😎;Always+Learning+New+Things" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=700&height=70&duration=4000&lines=Hi+There+Welcome+!+👋;+I'm+Khalid+Edaoudi+😎;Always+Learning+New+Things" />
 </div>
 
 <br>
