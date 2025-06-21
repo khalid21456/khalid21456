@@ -55,6 +55,11 @@
     <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,docker,yarn,latex,github,git,vscode,anaconda,eclipse,idea,postman,vite,vercel" /><br>
 </div>
 
+## 👾 AI Tools:
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python" />
+</div>
+
 <br>
 <div align="center">
     <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
