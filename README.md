@@ -1,6 +1,6 @@
 
 <div align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+Welcome+!+👋;+I'm+Khalid+Edaoudi+😎;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=50&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There+Welcome+!+👋;+I'm+Khalid+Edaoudi+😎;Always+Learning+New+Things" />
 </div>
 
 <br>
@@ -53,11 +53,6 @@
 ## 🛠️ Tools
 <div align="center">
     <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,docker,yarn,latex,github,git,vscode,anaconda,eclipse,idea,postman,vite,vercel" /><br>
-</div>
-
-## 👾 AI Tools:
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python" />
 </div>
 
 <br>
