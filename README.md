@@ -17,7 +17,7 @@
 
 - 👨‍💻 I'm so interested by **Software Engineering**, **Data Science** and **AI**
 
-- 📙 Now I'm currently learning **Microservices Architecture**
+- 📙 Now I'm currently learning **CI/CD Pipelines**
 
 
 <br>
