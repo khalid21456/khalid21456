@@ -50,9 +50,9 @@
     
 </div>
 
-## 🛠️ DevOps
+♾️​ 🛠️ DevOps
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins" /><br>
 </div>
 
 ## 🛠️ Tools
