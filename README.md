@@ -50,9 +50,14 @@
     
 </div>
 
+## 🛠️ DevOps
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=git,github,docker,jenkins" /><br>
+</div>
+
 ## 🛠️ Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,docker,yarn,latex,github,git,vscode,anaconda,eclipse,idea,postman,vite,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,yarn,latex,vscode,anaconda,eclipse,idea,postman,vite,vercel" /><br>
 </div>
 
 <br>
