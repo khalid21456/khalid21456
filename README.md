@@ -57,7 +57,7 @@
 
 ## 🛠️ Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,yarn,latex,vscode,anaconda,eclipse,idea,postman,vite,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,yarn,latex,figma,vscode,anaconda,eclipse,idea,postman,vite,vercel" /><br>
 </div>
 
 <br>
