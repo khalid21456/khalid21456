@@ -50,7 +50,7 @@
 
 ## ♾️​ DevOps
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins" /><br>
+    <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes" /><br>
 </div>
 
 ## 🛠️ Tools
