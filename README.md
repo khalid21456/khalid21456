@@ -9,8 +9,6 @@
 
  You can reach me by **khalidedaoudi8@gmail.com**
 
- LinkedIn : www.linkedin.com/in/khalid-edaoudi-8b27a130b
-
 - 🔭 I’m **Khalid Edaoudi**
 
 - 👨‍🎓 **Big Data & IoT** student
