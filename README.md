@@ -36,7 +36,7 @@
 
 ## 💡 Frameworks and libraries
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=bootstrap,tailwind,materialui,sklearn,tensorflow,pytorch"/>    
+    <img src="https://skillicons.dev/icons?i=threejs,tailwind,materialui,sklearn,tensorflow,pytorch"/>    
 </div>
 
 ## 🛢️ Database management
