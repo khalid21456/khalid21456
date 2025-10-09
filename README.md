@@ -13,7 +13,7 @@
 
 - 👨‍🎓 **Big Data & IoT** student
 
-- 👨‍💻 I'm so interested by **Software Engineering**, **Data Science** and **AI**
+- 👨‍💻 I'm so interested by **Software Engineering**, **Data Science** and **Machine Learning**
 
 - 📙 Now I'm currently learning **CI/CD Pipelines**
 
