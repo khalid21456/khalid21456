@@ -38,6 +38,8 @@
 <div align="center">
     <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv"/>    
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
+    <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" height="40" alt="seaborn" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" height="40" alt="matplotlib" />
 </div>
 
 ## 🛢️ Database Management
