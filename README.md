@@ -36,7 +36,7 @@
 
 ## 💡 Data Science and Machine Learning
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/>    
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv"/>    
 </div>
 
 ## 🛢️ Database Management
