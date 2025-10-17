@@ -29,17 +29,17 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python" />
 </div>
 
-## 🌐 Web technologies:
+## 🌐 Web technologies and Libraries:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,redux,spring,next,flask,express,graphql" />
+    <img src="https://skillicons.dev/icons?i=html,css,react,threejs,tailwind,materialui,redux,spring,next,flask,express,graphql" />
 </div>
 
-## 💡 Frameworks and libraries
+## 💡 Data Science and Machine Learning
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=threejs,tailwind,materialui,sklearn,tensorflow,pytorch"/>    
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch"/>    
 </div>
 
-## 🛢️ Database management
+## 🛢️ Database Management
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,firebase,mongodb,postgres,redis" />
     <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
