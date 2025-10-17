@@ -29,7 +29,7 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,javascript,typescript,python" />
 </div>
 
-## 🌐 Web technologies and Libraries:
+## 🌐 Web technologies:
 <div align="center">
     <img src="https://skillicons.dev/icons?i=html,css,react,threejs,tailwind,materialui,redux,spring,next,flask,express,graphql" />
 </div>
