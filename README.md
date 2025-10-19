@@ -73,9 +73,10 @@
 <img src="./cert/IBM_Big_Data_101.jpg" height="150"/>
 <img src="./cert/scrum-foundation-learner.png" height="150"/>
 </div>
+<div style="display:'flex'">
 <img src="./cert/sololearn_introduction_to_java.jpg" height="150"/>
 <img src="./cert/DataCamp_Supervised_Machine_Learning.jpg" height="150"/>
-
+</div>
 
 ## 📈​ My Statistics
 <p>
