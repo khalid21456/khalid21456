@@ -79,13 +79,7 @@
 <br/><br/>
 
 <div style="
-  display: inline-block;
-  padding: 4px 10px;
-  border-left: 3px solid #0b67a4;
-  background-color: #f3f8fc;
   font-style: italic;
-  border-radius: 6px;
-  color: #0b2137;
 ">
     Talk is cheap, show me code
 </div>
