@@ -77,6 +77,8 @@
 <img src="./cert/sololearn_introduction_to_java.jpg" height="150"/>
 <img src="./cert/DataCamp_Supervised_Machine_Learning.jpg" height="150"/>
 </div>
+<br/>
+<br/>
 
 ## 📈​ My Statistics
 <p>
