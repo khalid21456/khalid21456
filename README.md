@@ -66,6 +66,15 @@
 <br>
 <br>
 
+## 🎖️ My Certificats
+<img src="./cert/aws_machine_learning.jpg" height="150"/>
+<img src="./cert/hackerRank_python.jpg" height="150"/>
+<img src="./cert/IBM_Big_Data_101.jpg" height="150"/>
+<img src="./cert/scrum-foundation-learner.png" height="150"/>
+<img src="./cert/sololearn_introduction_to_java.jpg" height="150"/>
+<img src="./cert/DataCamp_Supervised_Machine_Learning.jpg" height="150"/>
+
+
 ## 📈​ My Statistics
 <p>
   <a href="https://github.com/khalid21456">
