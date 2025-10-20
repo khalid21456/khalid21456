@@ -66,7 +66,7 @@
 <br>
 <br>
 
-## 🎖️ My Certificats
+## 🎖️ My Certifications
 <div style="display:'flex'">
 <img src="./cert/aws_machine_learning.jpg" height="150"/>
 <img src="./cert/hackerRank_python.jpg" height="150"/>
