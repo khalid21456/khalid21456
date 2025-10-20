@@ -51,8 +51,9 @@
 
 ## ♾️​ DevOps
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes" />
-    <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmarketplace.visualstudio.com%2Fitems%3FitemName%3DSonarSource.sonarqube&psig=AOvVaw3ECTC0D9plyVh69vVFgIqK&ust=1761073505328000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCID8lpq8s5ADFQAAAAAdAAAAABAy" height="40" alt="sonarcube"/>
+    <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes" />    
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original.svg" />
+          
 </div>
 
 ## 🛠️ Tools
