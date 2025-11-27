@@ -31,7 +31,7 @@
 
 ## 🌐 Web technologies:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,react,threejs,tailwind,materialui,redux,spring,next,flask,express,graphql" />
+    <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,threejs,tailwind,materialui,redux,spring,next,flask,express,graphql" />
 </div>
 
 ## 💡 Data Science and Machine Learning
@@ -56,7 +56,7 @@
 
 ## 🛠️ Tools
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=npm,nodejs,maven,latex,figma,vscode,anaconda,eclipse,idea,postman,vite,vercel" /><br>
+    <img src="https://skillicons.dev/icons?i=npm,maven,latex,figma,vscode,anaconda,eclipse,idea,postman,vite,vercel" /><br>
 </div>
 
 <br>
