@@ -49,7 +49,7 @@
     
 </div>
 
-## ♾️​ DevOps
+## ♾️​ DevOps & Big Data
 <div align="center">
     <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,kafka,grafana,prometheus" />              
 </div>
