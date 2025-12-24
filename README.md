@@ -51,7 +51,7 @@
 
 ## ♾️​ DevOps & Big Data
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,kafka,grafana,prometheus" />              
+    <img src="https://skillicons.dev/icons?i=git,github,jenkins,docker,kubernetes,kafka,grafana,prometheus,spark" />              
 </div>
 
 ## 🛠️ Tools
