@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=html,css,nodejs,react,threejs,tailwind,materialui,redux,spring,next,flask,express,graphql" />
 </div>
 
-## 💡 Data Science and Machine Learning
+## 💡 Data Science and AI
 <div align="center">
     <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,pytorch,opencv"/>    
     <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" height="40" alt="pandas" />
