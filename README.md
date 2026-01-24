@@ -94,7 +94,7 @@
 <br/>
 
 ## ​✅ Contributions
-<img width="845" height="603" alt="image" src="https://github.com/user-attachments/assets/f51f979a-6a45-45bb-b43f-64dcaf131c0c" />
+<img width="845" height="767" alt="image" src="https://github.com/user-attachments/assets/7f59a93d-5477-4e0b-8b13-3bd10b5210de" />
 
 <br/><br/>
 <div align="center">
