@@ -89,7 +89,6 @@
 <br/>
 <br/>
 
-<br/><br/>
 <div align="center">
  <i>“ Talk is cheap, show me code ”</i>
     ― Linus Torvalds
