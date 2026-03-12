@@ -89,7 +89,7 @@
     &emsp;
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalid21456&layout=compact&theme=radical" alt="Top Languages" height="195">
   </a> -->
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
+    <img src = "https://github-readme-stats.vercel.app/api?username=khalid21456&show_icons=true&theme=transparent" alt="statistics" height="195/>
 </p>
 <br/>
 <br/>
