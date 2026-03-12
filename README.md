@@ -93,9 +93,6 @@
 <br/>
 <br/>
 
-## ​✅ Contributions
-<img width="845" height="767" alt="image" src="https://github.com/user-attachments/assets/7f59a93d-5477-4e0b-8b13-3bd10b5210de" />
-
 <br/><br/>
 <div align="center">
  <i>“ Talk is cheap, show me code ”</i>
