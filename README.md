@@ -91,5 +91,4 @@
 
 <div align="center">
  <i>“ Don't think outside the box, find the box ! When faced with an impossible problem, identify the real constraints. Ask yourself: 'Does it have to be done this way? Does it have to be done at all ?' ”</i>
-    ― Linus Torvalds
 <div>
