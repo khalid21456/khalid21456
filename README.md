@@ -15,6 +15,8 @@
 
 - 👨‍💻 I'm so interested by **Software Engineering**, **Data Science** and **Machine Learning**
 
+- Check my personal blog site https://khalid-log-dx5x.vercel.app/
+
 <!--- 📙 Now I'm currently learning **CI/CD Pipelines**-->
 
 
