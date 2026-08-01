@@ -84,11 +84,9 @@
 <br/>
 
 ## 📈​ My Statistics
-
 <p>
-    <img src = "https://github-readme-stats.vercel.app/api?username=khalid21456&show_icons=true&theme=transparent" alt="statistics" height="195"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=khalid21456&show_icons=true&theme=transparent" alt="statistics" height="195"/>
 </p>
-<br/>
 <br/>
 
 <div align="center">
