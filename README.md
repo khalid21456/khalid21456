@@ -47,7 +47,7 @@
 ## 🛢️ Database Management
 <div align="center">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres,redis" />
-    <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/>
+    <!-- <img src="https://www.vectorlogo.zone/logos/oracle/oracle-icon.svg" width="45px" height="45px"/> -->
     
 </div>
 
