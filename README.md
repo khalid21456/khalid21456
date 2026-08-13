@@ -19,9 +19,9 @@
 
 <!--- 📙 Now I'm currently learning **CI/CD Pipelines**-->
 
-![Followers](https://img.shields.io/github/followers/atifHiba?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0369a1&labelColor=0c1a2e)
+![Followers](https://img.shields.io/github/followers/khalid21456?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=0369a1&labelColor=0c1a2e)
 &nbsp;
-![Views](https://komarev.com/ghpvc/?username=atifHiba&style=for-the-badge&color=0369a1&labelColor=0c1a2e&label=PROFILE+VIEWS)
+![Views](https://komarev.com/ghpvc/?username=khalid21456&style=for-the-badge&color=0369a1&labelColor=0c1a2e&label=PROFILE+VIEWS)
 
 
 <br>
