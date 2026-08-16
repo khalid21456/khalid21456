@@ -32,7 +32,7 @@
 
 ## ♨️ Programming languages:
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,typescript,python" />
+    <img src="https://skillicons.dev/icons?i=c,java,javascript,typescript,python" />
 </div>
 
 ## 🌐 Web technologies:
