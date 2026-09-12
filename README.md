@@ -11,9 +11,9 @@
 
 - 🔭 I’m **Khalid Edaoudi**
 
-- 👨‍🎓 **Big Data & IoT** student
+- 👨‍💻 **Software Engineer**
 
-- 👨‍💻 I'm so interested by **Software Engineering**, **Data Science** and **Machine Learning**
+- 👨‍🎓 I'm so interested by **Software Engineering**, **Data Science** and **Machine Learning**
 
 - Check my personal blog site https://khalid-log-dx5x.vercel.app/
 
